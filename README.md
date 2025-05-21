@@ -62,7 +62,7 @@ In Week 2, we explore the fundamental concepts of **Object-Oriented Programming*
 
 Before beginning Week 2, ensure the following:
 - Java Development Kit (JDK) is installed and configured
-- Familiarity with Java basics covered in [Week 1](../Week1)
+- Familiarity with Java basics covered in [Week 1](https://github.com/Sukesh03/Week-01_Core_Programming)
 - A suitable IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code
 
 ## How to Use This Repository
